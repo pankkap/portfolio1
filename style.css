@@ -1,0 +1,47 @@
+body
+{
+    height: 300vh;
+    background-image: linear-gradient(to right , pink, blue, deeppink);
+}
+#img1
+{
+    width: 200px; 
+    float: left;
+    margin-right: 10px;
+    border-radius: 50%;
+    /* border: 2px solid black; */
+    box-shadow: 5px 5px 5px black;
+}
+h1
+{
+    background-color: white;
+    color: black;
+    text-align: center;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+p
+{
+    color: white;
+}
+.fa-linkedin
+{
+    padding: 15px;
+    font-size: 60px;
+    background-color: white;
+    color: blue;
+    position: fixed;
+    right: 10px;
+    top: 200px;
+    border-radius: 45%;
+}
+
+
+
+
+
